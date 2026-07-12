@@ -175,3 +175,5 @@ Company portfolio site
 *Code is poetry — every line should serve a purpose.*
 
 </div>
+
+<!-- profile sync: 2026-07-12 -->
