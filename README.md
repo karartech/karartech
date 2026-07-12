@@ -1,10 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=200&section=header&text=Karar%20Tech&fontSize=50&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20Mobile%20Architect&descAlign=center&descSize=16&descAlignY=72&animation=scaleIn" alt="Karar Tech"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=6366f1&height=130&section=header&text=Karar%20Tech&fontSize=46&fontColor=ffffff&animation=twinkling" width="100%" alt="Karar Tech"/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=8b5cf6&height=56&section=header&text=Full-Stack%20Developer%20%7C%20Mobile%20Architect&fontSize=17&fontColor=ffffff&animation=fadeIn" width="100%" alt="Full-Stack Developer"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Building+beautiful+digital+experiences...;Full-Stack+%7C+Mobile+%7C+AI;React+Native+%7C+Next.js+%7C+TypeScript;Shipping+to+App+Store+%26+Google+Play" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Building+beautiful+digital+experiences...;Full-Stack+%7C+Mobile+%7C+AI;React+Native+%7C+Next.js+%7C+TypeScript;Shipping+to+App+Store+%26+Google+Play" alt="Typing animation"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/karartech/karartech/main/assets/ascii-terminal.svg" width="640" alt="Animated terminal ASCII"/>
 
 <br/>
 
@@ -41,94 +47,92 @@ Founder of [**Karar Tech**](https://karartech.com). I build polished web platfor
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8b5cf6,100:06b6d4&height=70&section=footer&text=Featured%20Projects&fontSize=22&fontColor=ffffff&animation=blinking" width="100%" alt="Featured Projects"/>
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="33%" align="center" valign="top">
 
 <a href="https://alkisafoundation.org/">
-  <img src="https://raw.githubusercontent.com/karartech/karartech/main/assets/projects/al-kisa.png" width="220" alt="Al-Kisa"/>
+  <img src="https://raw.githubusercontent.com/karartech/karartech/main/assets/projects/icons/al-kisa.png" width="90" alt="Al-Kisa"/>
 </a>
 
 **Al-Kisa**  
-All-in-one Muslim companion app.
+Muslim companion app
 
-`React Native` `TypeScript` `Supabase`
+`React Native` `TypeScript`
 
-[Website](https://alkisafoundation.org/) · [App Store](https://apps.apple.com/app/id6743946715)
+[Website](https://alkisafoundation.org/) Â· [App Store](https://apps.apple.com/app/id6743946715)
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="33%" align="center" valign="top">
 
 <a href="https://www.absanetwork.com/">
-  <img src="https://raw.githubusercontent.com/karartech/karartech/main/assets/projects/ABSA.png" width="220" alt="ABSA Network"/>
+  <img src="https://raw.githubusercontent.com/karartech/karartech/main/assets/projects/icons/ABSA.png" width="90" alt="ABSA Network"/>
 </a>
 
 **ABSA Network**  
-Shia students network worldwide.
+Students network worldwide
 
 `React` `Supabase`
 
-[Website](https://www.absanetwork.com/) · [App Store](https://apps.apple.com/us/app/absa-network/id6756297958)
+[Website](https://www.absanetwork.com/) Â· [App Store](https://apps.apple.com/us/app/absa-network/id6756297958)
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<a href="https://apps.apple.com/app/salah-journal/id6747736982">
+  <img src="https://raw.githubusercontent.com/karartech/karartech/main/assets/projects/icons/salah-journal.png" width="90" alt="Salah Journal"/>
+</a>
+
+**Salah Journal**  
+Missed prayer tracker
+
+`React Native` `SQLite`
+
+[App Store](https://apps.apple.com/app/salah-journal/id6747736982) Â· [Play Store](https://play.google.com/store/apps/details?id=com.karartech.salahjournal)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" align="center">
-
-<a href="https://apps.apple.com/app/salah-journal/id6747736982">
-  <img src="https://raw.githubusercontent.com/karartech/karartech/main/assets/projects/salah-journal.png" width="220" alt="Salah Journal"/>
-</a>
-
-**Salah Journal**  
-Missed prayer tracker with analytics.
-
-`React Native` `SQLite`
-
-[App Store](https://apps.apple.com/app/salah-journal/id6747736982) · [Play Store](https://play.google.com/store/apps/details?id=com.karartech.salahjournal)
-
-</td>
-<td width="50%" valign="top" align="center">
+<td width="33%" align="center" valign="top">
 
 <a href="https://github.com/karartech/ScribeClock-Desktop-Releases">
-  <img src="https://raw.githubusercontent.com/karartech/karartech/main/assets/projects/scribe-clock.png" width="140" alt="Scribe Clock"/>
+  <img src="https://raw.githubusercontent.com/karartech/karartech/main/assets/projects/icons/scribe-clock.png" width="90" alt="Scribe Clock"/>
 </a>
 
 **Scribe Clock**  
-Desktop time-tracking for all platforms.
+Desktop time-tracking
 
 `Electron` `TypeScript`
 
 [Releases](https://github.com/karartech/ScribeClock-Desktop-Releases)
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
+<td width="33%" align="center" valign="top">
 
 <a href="https://apps.apple.com/app/shia+/id1511772373">
-  <img src="https://raw.githubusercontent.com/karartech/karartech/main/assets/projects/ShiaPlus.png" width="220" alt="Shia+"/>
+  <img src="https://raw.githubusercontent.com/karartech/karartech/main/assets/projects/icons/ShiaPlus.png" width="90" alt="Shia+"/>
 </a>
 
 **Shia+**  
-Prayer and Dua guide with audio.
+Prayer and Dua guide
 
 `React Native` `Node.js`
 
-[App Store](https://apps.apple.com/app/shia+/id1511772373) · [Play Store](https://play.google.com/store/apps/details?id=com.karartech.shiaplus)
+[App Store](https://apps.apple.com/app/shia+/id1511772373) Â· [Play Store](https://play.google.com/store/apps/details?id=com.karartech.shiaplus)
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="33%" align="center" valign="top">
 
 <a href="https://karartech.com">
-  <img src="https://raw.githubusercontent.com/karartech/karartech/main/assets/projects/karartech-web.png" width="220" alt="Karar Tech Web"/>
+  <img src="https://raw.githubusercontent.com/karartech/karartech/main/assets/projects/icons/karartech-web.png" width="90" alt="Karar Tech Web"/>
 </a>
 
 **Karar Tech Web**  
-Company portfolio and services site.
+Company portfolio site
 
 `Next.js` `Tailwind`
 
-[Live Site](https://karartech.com) · [Source](https://github.com/karartech/karartech-web)
+[Live Site](https://karartech.com) Â· [Source](https://github.com/karartech/karartech-web)
 
 </td>
 </tr>
@@ -150,7 +154,7 @@ Company portfolio and services site.
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/karartech/karartech/output/dist/github-contribution-grid-snake.gif" alt="Contribution snake eating and growing"/>
+<img src="https://raw.githubusercontent.com/karartech/karartech/output/dist/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake"/>
 
 </div>
 
@@ -171,6 +175,6 @@ Company portfolio and services site.
 
 <br/><br/>
 
-*Code is poetry — every line should serve a purpose.*
+*Code is poetry â€” every line should serve a purpose.*
 
 </div>
