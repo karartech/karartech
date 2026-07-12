@@ -138,7 +138,7 @@ Company portfolio and services site.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/karartech/karartech/main/profile-3d-contrib/profile-night-green-animate.svg" width="100%" alt="3D contribution graph"/>
+<img src="https://raw.githubusercontent.com/karartech/karartech/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D contribution graph"/>
 
 <br/>
 
