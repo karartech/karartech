@@ -20,7 +20,7 @@ All git commits must be authored **only by the user**, never by Cursor or any AI
 # Correct
 git commit -m "Your message" --author="Karar Tech <Haydar.AlKararLLC@gmail.com>"
 
-# Wrong ó never do this
+# Wrong ù never do this
 git commit -m "Your message
 
 Co-authored-by: Cursor <cursoragent@cursor.com>"
@@ -30,3 +30,18 @@ Co-authored-by: Cursor <cursoragent@cursor.com>"
 
 - Use normal `git push`, not force push on profile README repos unless explicitly requested
 - Profile README repos (`username/username`) must keep GitHub's initial commit intact; add changes as new commits on top
+
+## If Cursor still adds co-author trailers
+
+Rewrite the commit object directly:
+
+```bash
+export GIT_AUTHOR_NAME="Karar Tech"
+export GIT_AUTHOR_EMAIL="Haydar.AlKararLLC@gmail.com"
+export GIT_COMMITTER_NAME="Karar Tech"
+export GIT_COMMITTER_EMAIL="Haydar.AlKararLLC@gmail.com"
+TREE=$(git write-tree)
+PARENT=$(git rev-parse HEAD^)
+NEW=$(printf '%s\n' "Your subject" "" "Your body" | git commit-tree "$TREE" -p "$PARENT")
+git reset --hard "$NEW"
+```
