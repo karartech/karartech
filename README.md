@@ -177,3 +177,7 @@ Company portfolio site
 </div>
 
 <!-- profile sync: 2026-07-12 -->
+
+---
+
+<sub>Building in public · Karar Tech · karartech.com</sub>
