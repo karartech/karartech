@@ -1,0 +1,32 @@
+---
+description: Never add Cursor or AI co-author trailers to git commits
+alwaysApply: true
+---
+
+# Git Commit Authorship
+
+All git commits must be authored **only by the user**, never by Cursor or any AI agent.
+
+## Required
+
+- Use the user's git identity only: `Karar Tech <Haydar.AlKararLLC@gmail.com>`
+- Commit messages must NOT include `Co-authored-by:` trailers
+- Never add `Co-authored-by: Cursor <cursoragent@cursor.com>` or similar
+- Never list `cursoragent` as a committer or contributor
+
+## When committing
+
+```bash
+# Correct
+git commit -m "Your message" --author="Karar Tech <Haydar.AlKararLLC@gmail.com>"
+
+# Wrong — never do this
+git commit -m "Your message
+
+Co-authored-by: Cursor <cursoragent@cursor.com>"
+```
+
+## When pushing profile or project repos
+
+- Use normal `git push`, not force push on profile README repos unless explicitly requested
+- Profile README repos (`username/username`) must keep GitHub's initial commit intact; add changes as new commits on top
